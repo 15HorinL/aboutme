@@ -1,24 +1,6 @@
-<!DOCTYPE html>
- <html>
-  <head>
-   <title> Lara Horin
-   </title>
-  </head>
-   <style>
-   body{
-   	text-align: center;
-   	background:midnightblue;
-   	color:honeydew;
-   	font-family:helvetica;
-       }
-    h1{
-    font-size:35; 
-    }  
-    h2{font-size:28;
-    }
-    </style>   
 
-   <body>
+
+  <body>
     <h1> Lara Horin
     </h1>
      <br>
