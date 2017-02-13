@@ -1,6 +1,3 @@
-# aboutme
-first website 
-
 <!DOCTYPE html>
  <html>
   <head>
